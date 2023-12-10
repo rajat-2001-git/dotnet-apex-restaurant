@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eYPIwJMz15jKMS092LgtF+zIKfEJ1q0muX1dEsFlN1Y=",
+  "Source": "ApexRestaurant.Api",
+  "BasePath": "_content/ApexRestaurant.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

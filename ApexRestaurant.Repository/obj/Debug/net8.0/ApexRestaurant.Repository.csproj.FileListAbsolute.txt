@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Desktop\CODE\Dotnet\apex-restaurant-rajat\ApexRestaurant.Repository\bin\Debug\net8.0\ApexRestaurant.Repository.deps.json
+C:\Users\Admin\OneDrive\Desktop\CODE\Dotnet\apex-restaurant-rajat\ApexRestaurant.Repository\bin\Debug\net8.0\ApexRestaurant.Repository.dll
+C:\Users\Admin\OneDrive\Desktop\CODE\Dotnet\apex-restaurant-rajat\ApexRestaurant.Repository\bin\Debug\net8.0\ApexRestaurant.Repository.pdb
+C:\Users\Admin\OneDrive\Desktop\CODE\Dotnet\apex-restaurant-rajat\ApexRestaurant.Repository\obj\Debug\net8.0\ApexRestaurant.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\CODE\Dotnet\apex-restaurant-rajat\ApexRestaurant.Repository\obj\Debug\net8.0\ApexRestaurant.Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\CODE\Dotnet\apex-restaurant-rajat\ApexRestaurant.Repository\obj\Debug\net8.0\ApexRestaurant.Repository.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\CODE\Dotnet\apex-restaurant-rajat\ApexRestaurant.Repository\obj\Debug\net8.0\ApexRestaurant.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\CODE\Dotnet\apex-restaurant-rajat\ApexRestaurant.Repository\obj\Debug\net8.0\ApexRestaurant.Repository.dll
+C:\Users\Admin\OneDrive\Desktop\CODE\Dotnet\apex-restaurant-rajat\ApexRestaurant.Repository\obj\Debug\net8.0\refint\ApexRestaurant.Repository.dll
+C:\Users\Admin\OneDrive\Desktop\CODE\Dotnet\apex-restaurant-rajat\ApexRestaurant.Repository\obj\Debug\net8.0\ApexRestaurant.Repository.pdb
+C:\Users\Admin\OneDrive\Desktop\CODE\Dotnet\apex-restaurant-rajat\ApexRestaurant.Repository\obj\Debug\net8.0\ref\ApexRestaurant.Repository.dll

@@ -13,3 +13,4 @@ C:\Users\Admin\OneDrive\Desktop\CODE\Dotnet\apex-restaurant-rajat\ApexRestaurant
 C:\Users\Admin\OneDrive\Desktop\CODE\Dotnet\apex-restaurant-rajat\ApexRestaurant.Services\obj\Debug\net8.0\refint\ApexRestaurant.Services.dll
 C:\Users\Admin\OneDrive\Desktop\CODE\Dotnet\apex-restaurant-rajat\ApexRestaurant.Services\obj\Debug\net8.0\ApexRestaurant.Services.pdb
 C:\Users\Admin\OneDrive\Desktop\CODE\Dotnet\apex-restaurant-rajat\ApexRestaurant.Services\obj\Debug\net8.0\ref\ApexRestaurant.Services.dll
+C:\Users\Admin\OneDrive\Desktop\CODE\Dotnet\apex-restaurant-rajat\ApexRestaurant.Services\obj\Debug\net8.0\ApexRestaurant.Services.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApexRestaurant.Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9576c816ad2f35532826cdcfea1c591e40a6b4e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8119da9e121b10125bbe310efdc4045e7eaa3c61")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApexRestaurant.Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApexRestaurant.Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
